@@ -7,7 +7,7 @@
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.18.2",
-    "express": "^4.16.2",
+    "express": "^4.17.3",
     "express-jsonschema": "^1.1.6",
     "mongo-express": "^0.39.2",
     "mongodb": "^2.2.33"
